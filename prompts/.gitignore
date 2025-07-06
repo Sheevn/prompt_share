@@ -1,0 +1,10 @@
+# Ignore the contents of the data directories
+/prompts/*
+/comments/*
+
+# But DO track the directories themselves by not ignoring a .gitkeep file
+!/prompts/.gitkeep
+!/comments/.gitkeep
+
+# Ignore common system files
+.DS_Store

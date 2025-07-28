@@ -2,7 +2,7 @@
 
 A lightweight, database-free, file-based PHP application for creating, managing, and sharing a personal library of AI prompts. The application uses Markdown files for storing prompts, making it easy to manage and version control.
 
-![Screenshot of the Prompt Sharer App]([https://user-images.githubusercontent.com/your-image-url-here.png](https://octoblogger.s3.ap-southeast-2.amazonaws.com/ps.jpg)) 
+![Screenshot of the Prompt Sharer App](https://octoblogger.s3.ap-southeast-2.amazonaws.com/ps.jpg)
 
 ---
 
